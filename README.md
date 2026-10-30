@@ -1,44 +1,53 @@
-# Hi, I'm Bauke Molenaar 👋
+# Bauke Molenaar
 
-**Cybersecurity Professional** · Leeuwarden, NL
+**IT · Automation · Technical problem-solving**
 
-Cybersecurity enthusiast and developer focused on offensive security, automation, and building tools that make security research faster and more accessible. I enjoy breaking things (ethically), writing clean code, and contributing to the security community.
+I build practical tools that connect software, Linux systems and hands-on technical work. My projects focus on Python and Shell/Bash automation, device management, networking, integrations and testable workflows. I also bring practical experience from electrical installation work.
 
-## 🛠️ Skills & Technologies
+I’m interested in roles where IT, automation and real-world technical problem-solving come together.
 
-### Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-2E8B57?style=for-the-badge&logo=python&logoColor=white)
-![Dirbuster](https://img.shields.io/badge/Dirbuster-808080?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+## Featured projects
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### [Pwnagotchi Control Center](https://github.com/itsdarklikehell-interactive/pwnagotchi-control-center)
+A menu-driven Shell tool for local SD-card preparation and remote Pwnagotchi management. The documented workflows cover backups, configuration, SSH, connection setup and connectivity checks.
 
-## 📊 GitHub Stats
+[Read the technical case study](https://itsdarklikehell.github.io/my-resume/projects/pwnagotchi-control-center.html)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdarklikehell&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdarklikehell&layout=compact&theme=radical&hide_border=true)
+### [Pwnagotchi Plugins](https://github.com/itsdarklikehell-interactive/pwnagotchi-plugins)
+A maintained collection of Python plugins that extends Pwnagotchi. The repository includes installation and configuration tooling, plus pytest and GitHub Actions checks for syntax, imports, plugin structure and TOML configuration. The collection includes work from multiple contributors.
 
-## 🏆 TryHackMe
+[Read the technical case study](https://itsdarklikehell.github.io/my-resume/projects/pwnagotchi-plugins.html)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/itsdarklikehell.png)](https://tryhackme.com/p/itsdarklikehell)
+### [Pwnspeaker & Pwnassistant](https://github.com/itsdarklikehell-interactive/pwnspeaker)
+Two Python plugins: text-to-speech feedback and a voice assistant that connects to Google Calendar. The documented setup covers speech, audio dependencies and OAuth authorization.
 
-## 📫 Contact & Links
+[Read the technical case study](https://itsdarklikehell.github.io/my-resume/projects/pwnspeaker.html)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsdarklikehell@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-itsdarklikehell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsdarklikehell)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-itsdarklikehell-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/itsdarklikehell)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-itsdarklikehell-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/itsdarklikehell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsdarklikehell)
-[![itch.io](https://img.shields.io/badge/itch.io-itsdarklikehell-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itsdarklikehell.itch.io)
-[![Codewars](https://img.shields.io/badge/Codewars-itsdarklikehell-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/itsdarklikehell)
+## Technologies demonstrated in projects
+
+- **Software & automation:** Python, Shell/Bash, JavaScript, pytest, GitHub Actions, TOML
+- **Systems & networking:** Linux, SSH, USB-Ethernet, Bluetooth PAN, Ethernet, WLAN, IP forwarding and NAT
+- **Integrations:** Google Calendar API, OAuth, text-to-speech and speech recognition
+- **Technical practice:** troubleshooting, structured configuration, backups, validation and documentation
+
+These are technologies used in the linked projects, not self-assigned proficiency scores.
+
+## Technical background
+
+Alongside software and automation projects, I have practical experience in electrical installation work, including cabling, distribution boards, PV systems, measurement equipment and working with installation standards such as NEN 1010.
+
+## Explore more
+
+- **[Portfolio & CV](https://itsdarklikehell.github.io/my-resume/)**
+- [GitHub repositories](https://github.com/itsdarklikehell?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/itsdarklikehell)
+- [TryHackMe profile](https://tryhackme.com/p/itsdarklikehell)
+- [itch.io projects](https://itsdarklikehell.itch.io)
+
+## Contact
+
+[itsdarklikehell@gmail.com](mailto:itsdarklikehell@gmail.com)
 
 ---
 
-*Profile maintained with care. Feel free to reach out for collaboration or security discussions.*
+*I value clear documentation, practical problem-solving and evidence over inflated claims.*
